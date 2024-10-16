@@ -1,0 +1,2 @@
+# FarmSmartAI
+Ai for Famers
